@@ -64,9 +64,4 @@ Ready to make an impact? **Join Circlo and start sharing today!**
 
 ---
 
-## 📄 License
-MIT (or your preferred license)
-
----
-
 > _"Sharing is the new owning. Let's build a better world, one rental at a time."_
